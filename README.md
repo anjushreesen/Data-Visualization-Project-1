@@ -16,6 +16,8 @@ Processes involved:
 <br>
 3.Visualising the data using charts,graphs,tables,cards etc
 <br>
+4.Segregated data and analysis on the basis of departments to reach a solution for employee retention
+<br>
 <br>
 ![Screenshot (19)](https://github.com/anjushreesen/Data-Visualization-Project-1/assets/73659975/e6dc3515-c779-4be2-aedf-faf11ccfbd19)
 
