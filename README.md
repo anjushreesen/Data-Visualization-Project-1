@@ -19,5 +19,5 @@ Processes involved:
 4.Segregated data and analysis on the basis of departments to reach a solution for employee retention
 <br>
 <br>
-![Screenshot (19)](https://github.com/anjushreesen/Data-Visualization-Project-1/assets/73659975/e6dc3515-c779-4be2-aedf-faf11ccfbd19)
 
+![Screenshot (30)](https://github.com/anjushreesen/Data-Visualization-Project-1/assets/73659975/386a5fa4-48ce-45ba-9955-a578a3d13115)
